@@ -1,0 +1,2 @@
+# DingTalk auto-configurations
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=top.nextor.dingtalk.robot.boot.DingTalkAutoConfiguration

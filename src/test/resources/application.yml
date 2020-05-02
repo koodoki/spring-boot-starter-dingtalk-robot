@@ -1,0 +1,8 @@
+spring:
+  dingtalk:
+    robot:
+      base-url: https://oapi.dingtalk.com
+      access-token: 68366c6ebeb257df772fae055409a6b0cbc3e46a76db46878ea567cc7b184322
+      signature:
+        enable: true
+        secret: SECe2fd3e3b6fbb1c1ae6eeb57e02a6a354ade0d820b34e56bd983d417934f794be
